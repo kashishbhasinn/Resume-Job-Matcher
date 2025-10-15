@@ -1,14 +1,14 @@
-# 📄 Resume–Job Recommender System
+# 📄 Resume-Job Recommender System
 
 ## 🚀 About the Project
 
-The **Resume–Job Recommender System** is an intelligent tool that evaluates how well a resume matches a specific job description.
+The **Resume-Job Recommender System** is an intelligent tool that evaluates how well a resume matches a specific job description.
 
 Using AI language models, the system understands context, skills, and experience to provide a fit score, highlight strengths, and suggest improvements for job applications.
 
 Upload your **Resume (PDF)** and a **Job Description**, and the app will:
 
-- 🔢 Compute a **Fit Score (0–100%)** showing alignment
+- 🔢 Compute a **Fit Score (0-100%)** showing alignment
 - 💡 Highlight **key strengths** in your resume
 - 🧠 Provide **personalized suggestions** to improve relevance
 
@@ -89,15 +89,3 @@ Open your browser and go to: `http://localhost:8501`
 - Auto-suggestions for ATS keywords  
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Fork, open issues, or submit pull requests to improve functionality or add new features.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
-**Built with ❤️ using AI and Streamlit for smarter career recommendations.**
